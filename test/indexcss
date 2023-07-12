@@ -3,3 +3,8 @@ div {
     border-radius: 50%;}
 
     
+    p {
+        width: 120px;
+        border-radius: 50%;}
+    
+        
